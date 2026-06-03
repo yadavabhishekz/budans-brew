@@ -11,14 +11,20 @@ The goal of this project is to create a smart, **agent-based chatbot** that can:
 * Guide customers through a seamless order process, ensuring accurate and structured order details.
 * Block irrelevant or harmful queries using a Guard Agent for safe and relevant interactions.
 
-## 🔧 What You'll Learn
-Through this project, you will gain hands-on experience in:
-* Deploying your personal LLM with RunPod
-* Deploying an agent-based system with specialized agents like Order Taking, Details, and Guard agents.
-* Setting up a vector database for storing coffee shop menu and product information.
-* Implementing Retrieval-Augmented Generation (RAG) for detailed and accurate responses.
-* Training and deploying a recommendation engine.
-* Building a React Native app that integrates this powerful chatbot.
+## 🎓 What I Learned
+
+Through building this project, I gained practical experience in:
+
+* Deploying and serving Large Language Models (LLMs) on cloud GPU infrastructure using RunPod.
+* Designing and implementing multi-agent AI systems with specialized agents for order processing, information retrieval, recommendations, and safety guardrails.
+* Building Retrieval-Augmented Generation (RAG) pipelines to enhance LLM responses with domain-specific knowledge.
+* Working with vector databases, embeddings, semantic search, and document retrieval techniques.
+* Developing and integrating recommendation systems to provide personalized product suggestions.
+* Engineering prompts and agent workflows to improve response accuracy and user experience.
+* Creating backend APIs to connect AI models, retrieval systems, and application services.
+* Integrating AI-powered backend services with a React Native mobile application.
+* Managing conversational context and building customer support workflows for real-world business use cases.
+* Understanding how LLMs, RAG, vector databases, recommendation engines, and mobile applications work together in a production-style AI system.
 
 ## 🧠 Chatbot Agent Architecture
 ![Coffee Shop Agent Architecture](./images/chatbot_agent_architecture.jpg)
