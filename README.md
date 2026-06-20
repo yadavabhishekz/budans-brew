@@ -1,7 +1,7 @@
 
-# Coffee Shop Customer Service Chatbot 🚀☕️
+# Budan's Brew 🚀☕️
 
-Welcome to the Coffee Shop Customer Service Chatbot project! This repository contains the code, resources, and instructions to build an AI-powered chatbot designed to enhance customer experiences in a coffee shop app. Leveraging the power of LLMs (Large Language models), Natural Language Processing (NLP), and RunPod's infrastructure, this chatbot can assist with taking orders, answering detailed menu queries, and providing personalized product recommendations—all within a React Native mobile app.
+Welcome to Budan's Brew a coffee shop customer service chatbot project! This repository contains the code, resources, and instructions to build an AI-powered chatbot designed to enhance customer experiences in a coffee shop app. Leveraging the power of LLMs (Large Language models), Natural Language Processing (NLP), and RunPod's infrastructure, this chatbot can assist with taking orders, answering detailed menu queries, and providing personalized product recommendations—all within a React Native mobile app.
 
 # 🎯 Project Overview
 The goal of this project is to create a smart, **agent-based chatbot** that can:
